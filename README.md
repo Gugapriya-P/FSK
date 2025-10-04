@@ -3,9 +3,9 @@
 Write a Python program for the modulation and demodulation of FSK.
 # Tools required
 
-* Python: A versatile programming language used for scientific computing and signal processing.
+** Python**: A versatile programming language used for scientific computing and signal processing.
 
-* NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
+** NumPy**: A powerful numerical library in Python for performing array-based operations and mathematical computations.
 
 # Program
 ```
