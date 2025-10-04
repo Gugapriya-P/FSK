@@ -3,9 +3,9 @@
 Write a Python program for the modulation and demodulation of FSK.
 # Tools required
 
-Python: A versatile programming language used for scientific computing and signal processing.
+* Python: A versatile programming language used for scientific computing and signal processing.
 
-NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
+* NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
 
 # Program
 ```
@@ -89,7 +89,10 @@ plt.show()
 ```
 # Output Waveform
 ```
-<img width="1201" height="1012" alt="image" src="https://github.com/user-attachments/assets/4f6e042c-300a-4763-90fb-a12b4daba633" />
+<img width="1524" height="505" alt="image" src="https://github.com/user-attachments/assets/5cc98e4c-5d30-4b03-8ee4-2e36aff09ffd" />
+<img width="1558" height="504" alt="image" src="https://github.com/user-attachments/assets/37e81042-e4a6-4e75-bc42-9db4834b9f5f" />
+<img width="1559" height="245" alt="image" src="https://github.com/user-attachments/assets/5b446880-657d-4fcb-939d-6ebed3320ce2" />
+
 
 ```
 # Results
